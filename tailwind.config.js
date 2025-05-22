@@ -20,7 +20,7 @@ module.exports = {
         "footer-texture": "url('assets/stepsBG.png')",
       },
       fontFamily: {
-        Inter: ["Inter"],
+        Inter: ["Inter", "sans-RiServerFill"],
       },
       spacing: {
         53: "212px",
